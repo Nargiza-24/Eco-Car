@@ -1,1 +1,1 @@
-# adelya
+Сайт ученика на HTML, CSS
